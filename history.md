@@ -3,3 +3,4 @@
 
 ## Who used the book cipher?
 ### During the American Revolution, Benedict Arnold, used a book cipher, sometimes known as the Arnold Cipher.
+
