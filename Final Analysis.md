@@ -4,7 +4,7 @@
 
 ## What made it useful?
 
-### What started to make it useful was when books were being massed produced so more people started to use it so they could send taxt about the book.
+### What started to make it useful was when books were being massed produced so more people started to use it so they could send text about the book.
 
 ## What are other interesting uses of this code or similar codes?
 
