@@ -2,10 +2,4 @@
 
 ## [History](history.md)
 
-## [Mechanics]()
 
-## [Mathematical Analysis]()
-
-## [Computer Code]()
-
-## [Final Analysis]()
