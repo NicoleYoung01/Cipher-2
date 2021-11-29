@@ -2,5 +2,5 @@
 
 ## [History](history.md)
 
-## [Final Analyasis](Final Analysis.md)
+## [Final Analysis](Final Analysis.md)
 
