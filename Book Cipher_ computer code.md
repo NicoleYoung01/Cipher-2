@@ -7,4 +7,4 @@
 
 ## What are codes and ciphers used for?
 
-**Codes and ciphers are a means of producing secret communications. Codes and ciphers are forms of cryptography, a term from the Greek kryptos, hidden, and graphia, writing.**
+**Codes and ciphers are a means of producing secret communications. Both transform messages into series of symbols that are intelligible only to specific recipients.**
